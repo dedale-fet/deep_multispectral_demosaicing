@@ -10,7 +10,9 @@ Files:
   * data/ - contains an original image and the network
   * data/MSI_deep_3x3_demosaicing.onnx - Deep-learning model in an universal format to compute the demosaicing. 
   * data/multispectral_image_9bands.img, and .hdr - The multispectral test image, with 9 bands from visible to near infrared. 
-
+    * Due to the size of the data, please download it from our google drive : 
+    * https://drive.google.com/open?id=1VbCtaUg3rizanQwNI49FP3pgQq5-BoPc
+    * https://drive.google.com/open?id=157qMwBJUIIRWxauQ9jIWuM6exeMmYznT
 ___
 
 The network model used is inspired from [VDSR].
